@@ -1,4 +1,4 @@
-# Microsoft-Azure-for-DS-ML
+# Microsoft Azure for DS & ML
 This series of tutorials are aimed for data science &amp; machine learning using Microsoft Azure cloud computing platform.
 The following is for MS learning docs: <https://docs.microsoft.com/en-us/learn/browse/>
 
