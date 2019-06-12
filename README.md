@@ -8,7 +8,7 @@ And following paths are aimed to test: "Microsoft Certified Azure Data Scientist
 1. Azure fundamentals: <https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/>
 2. Explore AI solution development with data science services in Azure: <https://docs.microsoft.com/en-us/learn/paths/explore-data-science-tools-in-azure/>
 3. Get started with Machine Learning with an Azure Data Science Virtual Machine: <https://docs.microsoft.com/en-us/learn/paths/get-started-with-azure-dsvm/>
-4. Build AI solutions with Azure Machine Learning service: <https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/>
-5. Introduction to machine learning with Python and Azure Notebooks: <https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/>
+4. Introduction to machine learning with Python and Azure Notebooks: <https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/>
+5. Build AI solutions with Azure Machine Learning service: <https://docs.microsoft.com/en-us/learn/paths/build-ai-solutions-with-azure-ml-service/>
 6. Extract knowledge and insights from your data with Azure Databricks: <https://docs.microsoft.com/en-us/learn/paths/data-science/>
 7. Perform data engineering with Azure Databricks: <https://docs.microsoft.com/en-us/learn/paths/data-engineering-with-databricks/>
